@@ -67,3 +67,11 @@ addition we can make use of a larger dataset that contains all the presidential 
 10 years. This data can be further utilized to find the moral rhetoric, to understand the 
 change in views towards topics over time. For example the views towards “Health care” in 
 US has changed over time, this can be studied by understanding the moral rhetoric.
+
+## Notebooks
+
+<br>Data Extraction - getandclean.py
+<br>Data Cleaning and Exploratory Data Analysis – DataAnalysis.ipynb, exploratory-analysis.py, exploratory-analysis2.ipnyb
+<br>Topic Modelling – TopicModeling.ipynb
+<br>Sentiment Analysis – sentiment-analysis.ipynb
+<br>Morality Detection - morality-frequency-distribution.ipynb, morality-polarity.ipynb
