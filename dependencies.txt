@@ -1,0 +1,13 @@
+requirements
+python 3
+nltk and packages
+matplotlib
+pip install seaborn
+pip install textblob
+pip install plotly
+pip install gensim
+pip install pyLDAvis
+punckt
+
+
+
