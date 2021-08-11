@@ -69,7 +69,7 @@ change in views towards topics over time. For example the views towards “Healt
 US has changed over time, this can be studied by understanding the moral rhetoric.
 
 ## Notebooks
-<br>Data Extraction - getandclean.py
+Data Extraction - getandclean.py
 <br>Data Cleaning and Exploratory Data Analysis – DataAnalysis.ipynb, exploratory-analysis.py, exploratory-analysis2.ipnyb
 <br>Topic Modelling – TopicModeling.ipynb
 <br>Sentiment Analysis – sentiment-analysis.ipynb
